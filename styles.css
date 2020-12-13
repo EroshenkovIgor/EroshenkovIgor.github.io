@@ -4,7 +4,7 @@
     font-size: 40px;
     font-family: 'Oswald', sans-serif;
     text-align: center;
-    background-color: #89858a;
+    background-color: hsl(120, 20%, 19%);
     margin-top: 5px;
     }
     .block{
@@ -12,8 +12,8 @@
 
     }
      .block:hover{
-    color: ivory;
-    background-color: #CCC0C0;}
+    color: rgb(255, 255, 255);
+    background-color: #64836c;}
      
     a{
         text-decoration: none;
@@ -31,3 +31,4 @@
     text-align: center;
     margin-top: 5px;
     }
+
